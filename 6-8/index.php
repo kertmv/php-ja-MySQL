@@ -35,7 +35,7 @@
             $email = $_GET['email'];
             $sonum = $_GET['sonum'];
 
-            $kuhu = 'martenn@gmail.com@gmail.com'; 
+            $kuhu = 'kert@gmail.com@gmail.com'; 
             $pealkrii = 'tagasia7';
             $sisu = '123123123 lorem ipsum'
             $kust = 'kustm: '.$nimi.' '.$email.; 

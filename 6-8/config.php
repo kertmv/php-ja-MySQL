@@ -1,5 +1,5 @@
 <?php
-$kasutaja = "mlaane";
+$kasutaja = "kvare";
 $dbserver = "localhost";
 $andmebaas ="muusikapood";
 $passwd = "1234";
